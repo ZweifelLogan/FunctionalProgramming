@@ -1,0 +1,6 @@
+So far I have implemented all of the problems (2-6) for both their actual operations in Exercises.hs and the
+    command-line/file reading and writing necessary in Main.hs
+The only things I think I have left to do is implement some error handling mentioned in the assignment as well as
+    sorting the list of outputs before writing to the file mentioned in problem 4
+I don't expect to have a lot of difficulties completing the rest of the assignment as their is little left for me to 
+    do unless I have overlooked or missed something big in the assignment description
